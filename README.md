@@ -1,8 +1,7 @@
 # C Journey
 
 > *Learning C to understand how software is built, executed, and ultimately attacked.*
-
-(![banner](image.png))
+![baner](https://miro.medium.com/1*2p6xGs1MCtjM7Giw5gmkpQ.jpeg)
 
 ## About
 
