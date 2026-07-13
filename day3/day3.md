@@ -70,3 +70,20 @@ Conversion
 ### Operator precedence
 >The set of rules that determine the order in which the operators are evaluated in an expression when the paranthesis are not used.
 
+Operators in the C lang have a priority order in which the compiler resolves them when the pranthesis are not used.<br>
+
+The order is as follows;
+```
+multiplication, division, modulus
+               |
+               |
+Addition,Subtraction
+               | 
+               |
+           Equals to 
+           
+```
+now when two operators with the same precedence comes in the same like the *the associativity rule* is applied
+  >The operators are resolved from left to right
+
+  
