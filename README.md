@@ -45,21 +45,7 @@ For me, writing working code is only one milestone. Understanding *why* it works
 
 
 
----
 
-# What You'll Find
-
-- Well-commented C programs
-- Personal notes
-- Compiler observations
-- Memory diagrams
-- GDB experiments
-- Assembly snippets
-- Small projects
-- Mistakes I made and what they taught me
-- Concepts explained from a systems perspective
-
-This is intended to be a learning journal, not just a code dump.
 
 ---
 
