@@ -22,8 +22,6 @@ Questions that drive this repository include:
 
 If a concept can be traced from source code to CPU execution, I want to understand that complete path.
 
----
-
 # Learning Philosophy
 
 I don't study isolated topics.
