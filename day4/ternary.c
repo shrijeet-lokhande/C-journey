@@ -9,4 +9,4 @@ int main(){
     age>=18?printf("the user is 18+") : printf("the user is under 18");
 
     return 0;
-}
+}   

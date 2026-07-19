@@ -73,7 +73,7 @@ Document the findings
 >the asterisks represents the completed topics
 - [*] C Fundamentals
 - [*] Operators
-- [ ] Control Flow
+- [*] Control Flow
 - [ ] Functions
 - [ ] Arrays
 - [ ] Pointers
