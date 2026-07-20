@@ -6,7 +6,9 @@ int main(){
 
     if(marks<=30){
         printf("you have failed the exam\n");
-    } else{printf("you have passed the exam\n");}
+    } else{printf("you have passed the exam\n");} // now the same can be done using the ternary statement
+
+    marks<=30?printf("you have failed the exam\n"):printf("you have passed the exam\n");
 
     return 0;
 }
