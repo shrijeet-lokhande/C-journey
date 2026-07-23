@@ -91,3 +91,21 @@ the above code will print hello world 5 times
 --- 
 
 ### do-while loop
+
+```
+syntax
+
+do{
+    //code
+}
+while(condition);
+```
+
+- key properties
+1. The loop body executes at least once because the condition is checked after execution.
+1. It is an exit-controlled loop, meaning the condition is evaluated at the end of each iteration.
+1. The condition must evaluate to a non-zero (true) value for the loop to continue.
+1. A semicolon (;) is mandatory after the while(condition) statement.
+1. It is ideal when the loop body must execute before deciding whether to repeat (e.g., menus, user input validation).
+
+---
