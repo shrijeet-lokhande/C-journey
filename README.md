@@ -125,4 +125,4 @@ I'm documenting the journey not only to track my own progress but also to demons
 
 ---
 
-> **"Don't just learn how to write code. Learn how the machine understands it."**
+> **"Don't just learn how to write code. Learn how the machine understands it and how it breaks."**
